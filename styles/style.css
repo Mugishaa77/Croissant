@@ -5,9 +5,17 @@ p{
 }
 
 img {
-    display: block;
+    max-width: 100%;
+        border-radius: 10px;
+        display: block;
+        margin: 30px 0;
+        margin: 30px auto;
 }
 
 body {
-color: pink;
+background: pink;
+}
+
+a{
+    text-align:center;
 }
