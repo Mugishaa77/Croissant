@@ -16,11 +16,10 @@ body {
 background: pink;
 }
 
-a{
-    text-align:center;
-}
+
 
 .links {
     display: flex;
     justify-content: space-evenly;
+    color: #DD5454;
 }
